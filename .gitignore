@@ -25,3 +25,13 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+# SSH private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+github-actions
+github-actions.pub
+/storage/key
+/storage/key.pub
+
